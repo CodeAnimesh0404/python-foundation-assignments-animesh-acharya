@@ -1,3 +1,8 @@
+Exercise: Data Quality Checker
+Student: Animesh Acharya
+Day: 1
+Exercise: 2
+
 total_rows = 2000
 missing_rows = 120
 duplicate_rows = 30
