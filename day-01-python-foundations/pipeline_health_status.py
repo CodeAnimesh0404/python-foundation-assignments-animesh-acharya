@@ -3,9 +3,11 @@ Student: Animesh Acharya
 Day: 1
 Exercise: 5
 
+# Function to evaluate pipeline health
 def check_pipeline(rows_loaded, rows_failed, runtime_minutes):
     failure_rate = (rows_failed / rows_loaded) * 100
 
+    # Classification
     if failure_rate <= 2 and runtime_minutes <= 20:
         status = "Healthy"
     elif failure_rate <= 5:
@@ -13,6 +15,7 @@ def check_pipeline(rows_loaded, rows_failed, runtime_minutes):
     else:
         status = "Critical"
 
+    # Output
     print(f"Rows loaded: {rows_loaded}")
     print(f"Rows failed: {rows_failed}")
     print(f"Runtime: {runtime_minutes} minutes")
