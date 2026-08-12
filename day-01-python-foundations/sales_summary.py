@@ -1,3 +1,8 @@
+Exercise: Sales Summary
+Student: Animesh Acharya
+Day: 1
+Exercise: 1
+
 product_name = "Wireless Mouse"
 unit_price = 1500
 quantity_sold = 12
