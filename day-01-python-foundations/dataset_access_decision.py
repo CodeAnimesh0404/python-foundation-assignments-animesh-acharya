@@ -1,3 +1,8 @@
+Exercise: Dataset Access Decision
+Student: Animesh Acharya
+Day: 1
+Exercise: Stretch
+
 allowed_roles = ["analyst", "scientist", "engineer"]
 restricted_datasets = ["salary_data", "personal_data"]
 
