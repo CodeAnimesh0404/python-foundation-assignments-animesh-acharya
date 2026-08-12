@@ -3,10 +3,13 @@ Student: Animesh Acharya
 Day: 1
 Exercise: Stretch
 
+# Input values
 allowed_roles = ["analyst", "scientist", "engineer"]
 restricted_datasets = ["salary_data", "personal_data"]
 
+# Function to evaluate access decision
 def check_access(user_role, is_active, requested_dataset):
+    # Collect all reasons for denial
     reasons = []
 
     if not is_active:
@@ -16,6 +19,7 @@ def check_access(user_role, is_active, requested_dataset):
     if requested_dataset in restricted_datasets:
         reasons.append("the dataset is restricted")
 
+    # Output
     print(f"Role: {user_role}, Active: {is_active}, Dataset: {requested_dataset}")
     if reasons:
         for reason in reasons:
