@@ -5,7 +5,7 @@
 ## Student Information
 
 - Name: Animesh Acharya
-- Cohort: Animesh
+- Cohort: Dlytica Academy Batch 16
 - Track Interest: Data Engineering
 
 ## About This Repository
