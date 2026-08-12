@@ -1,3 +1,8 @@
+Exercise: Pipeline Health Status
+Student: Animesh Acharya
+Day: 1
+Exercise: 5
+
 def check_pipeline(rows_loaded, rows_failed, runtime_minutes):
     failure_rate = (rows_failed / rows_loaded) * 100
 
