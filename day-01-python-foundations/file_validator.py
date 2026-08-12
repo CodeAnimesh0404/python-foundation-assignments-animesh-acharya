@@ -1,3 +1,8 @@
+Exercise: File Validator
+Student: Animesh Acharya
+Day: 1
+Exercise: 3
+
 valid_extensions = (".csv", ".json", ".parquet")
 
 file_name = input("Enter a file name: ")
