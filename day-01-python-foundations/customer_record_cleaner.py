@@ -1,3 +1,8 @@
+Exercise: Customer Record Cleaner
+Student: Animesh Acharya
+Day: 1
+Exercise: 4
+
 raw_name = "  sAgar THAPA "
 raw_city = "kATHMANDU "
 raw_age = "27"
