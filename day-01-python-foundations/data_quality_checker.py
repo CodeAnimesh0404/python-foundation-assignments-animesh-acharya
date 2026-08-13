@@ -1,7 +1,7 @@
-Exercise: Data Quality Checker
-Student: Animesh Acharya
-Day: 1
-Exercise: 2
+#Exercise: Data Quality Checker
+#Student: Animesh Acharya
+#Day: 1
+#Exercise: 2
 
 # Input values
 total_rows = 2000
