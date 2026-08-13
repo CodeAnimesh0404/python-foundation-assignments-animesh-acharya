@@ -1,7 +1,7 @@
-Exercise: Dataset Access Decision
-Student: Animesh Acharya
-Day: 1
-Exercise: Stretch
+#Exercise: Dataset Access Decision
+#Student: Animesh Acharya
+#Day: 1
+#Exercise: Stretch
 
 # Input values
 allowed_roles = ["analyst", "scientist", "engineer"]
