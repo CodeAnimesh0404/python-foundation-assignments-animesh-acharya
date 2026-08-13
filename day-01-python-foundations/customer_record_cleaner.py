@@ -1,7 +1,7 @@
-Exercise: Customer Record Cleaner
-Student: Animesh Acharya
-Day: 1
-Exercise: 4
+#Exercise: Customer Record Cleaner
+#Student: Animesh Acharya
+#Day: 1
+#Exercise: 4
 
 # Input values
 raw_name = "  sAgar THAPA "
