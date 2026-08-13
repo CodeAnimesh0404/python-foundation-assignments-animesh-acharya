@@ -11,7 +11,7 @@
 - Dictionaries and dictionary comprehensions
 - Nested dictionaries
   
-##Exercises:
+## Exercises:
 
 1. Batch Processor
 2. Retry Simulation
