@@ -1,7 +1,7 @@
-Exercise: File Validator
-Student: Animesh Acharya
-Day: 1
-Exercise: 3
+#Exercise: File Validator
+#Student: Animesh Acharya
+#Day: 1
+#Exercise: 3
 
 # Input values
 valid_extensions = (".csv", ".json", ".parquet")
