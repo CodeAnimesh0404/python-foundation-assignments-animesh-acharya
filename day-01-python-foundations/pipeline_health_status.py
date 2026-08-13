@@ -1,7 +1,7 @@
-Exercise: Pipeline Health Status
-Student: Animesh Acharya
-Day: 1
-Exercise: 5
+#Exercise: Pipeline Health Status
+#Student: Animesh Acharya
+#Day: 1
+#Exercise: 5
 
 # Function to evaluate pipeline health
 def check_pipeline(rows_loaded, rows_failed, runtime_minutes):
