@@ -1,7 +1,7 @@
-Exercise: Sales Summary
-Student: Animesh Acharya
-Day: 1
-Exercise: 1
+#Exercise: Sales Summary
+#Student: Animesh Acharya
+#Day: 1
+#Exercise: 1
 
 # Input values
 product_name = "Wireless Mouse"
