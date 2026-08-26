@@ -15,5 +15,7 @@ This repository contains my assignments and practice exercises from the Python F
 ## Assignment Progress
 
 - [x] Day 1: Python Foundations
-- [ ] Day 2: Collections
-- [ ] Day 3: Loops
+- [x] Day 2: Loops
+- [x] Day 3: Functions and modules
+- [x] Day 4: File Error Logging
+- [x] Day 5: Library Checkout
